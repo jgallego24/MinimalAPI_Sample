@@ -1,15 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "dl83lxrAdxtPyzYbd2DPTA8oXHeMLzfo4qtaFIAKuA1CS6a4B/JzHCvzuFEGlBj3N94672b28m0hHAwrqSwUTg==",
+  "dgSpecHash": "/ujTGbW5aX7f99h1BxeXcmjkra4uoc/0i9YvUMG0WsdTlt4NtnJHdhjAvJzOQYO1M7xb3Lc/WyeCcMLLp6qdGQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jugalleg\\RiderProjects\\MinimalAPI_Sample\\MinimalAPI_Sample\\MinimalAPI_Sample.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jugalleg\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-rc.1.22426.7\\microsoft.entityframeworkcore.7.0.0-rc.1.22426.7.nupkg.sha512",
+    "C:\\Users\\jugalleg\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0-rc.1.22426.7\\microsoft.entityframeworkcore.abstractions.7.0.0-rc.1.22426.7.nupkg.sha512",
+    "C:\\Users\\jugalleg\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0-rc.1.22426.7\\microsoft.entityframeworkcore.analyzers.7.0.0-rc.1.22426.7.nupkg.sha512",
+    "C:\\Users\\jugalleg\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.0-rc.1.22426.7\\microsoft.entityframeworkcore.inmemory.7.0.0-rc.1.22426.7.nupkg.sha512",
     "C:\\Users\\jugalleg\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jugalleg\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-rc.1.22426.10\\microsoft.extensions.caching.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jugalleg\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-rc.1.22426.10\\microsoft.extensions.caching.memory.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jugalleg\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-rc.1.22426.10\\microsoft.extensions.dependencyinjection.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jugalleg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-rc.1.22426.10\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jugalleg\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-rc.1.22426.10\\microsoft.extensions.logging.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jugalleg\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-rc.1.22426.10\\microsoft.extensions.logging.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jugalleg\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-rc.1.22426.10\\microsoft.extensions.options.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jugalleg\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-rc.1.22426.10\\microsoft.extensions.primitives.7.0.0-rc.1.22426.10.nupkg.sha512",
     "C:\\Users\\jugalleg\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\jugalleg\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\jugalleg\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\jugalleg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\jugalleg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\jugalleg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\jugalleg\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
